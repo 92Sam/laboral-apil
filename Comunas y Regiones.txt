@@ -1,0 +1,849 @@
+1 Tarapacá
+2 Antofagasta
+'3', Atacama
+'4','Coquimbo'
+'5','Valparaíso'
+'6','O'Higgins'
+'7','Maule'
+'8','Bío-Bío'
+'9','Araucanía'
+'10','Los Lagos'
+'11','Aysén'
+'12','Magallanes'
+'13','Metropolitana'
+'14','Los Rios'
+'15','Arica y Parinacota'
+
+INSERT INTO `camarade_talca`.`region` (`id`, `nombre`) VALUES ('4','Coquimbo'), ('5','Valparaíso'), ('6','O'Higgins'),('7','Maule'),('8','Bío-Bío'),('9','Araucanía'),('10','Los Lagos'),('11','Aysén'),('12','Magallanes'),('13','Metropolitana'),('14','Los Rios'),('15','Arica y Parinacota');
+					
+					
+					
+					
+					
+INSERT INTO `camarade_talca`.`comuna`  (`id_region`, `nombre`) VALUES ('7','Pelarco'), ('7','Río Claro'), ('7','San Clemente'),('7','Maule'),('7','San Rafael'),('7','Empedrado'),('7','Pencahue'),('7','Constitución'),('7','Curepto');					
+
+					
+				
+'7','Pelarco'
+'7','Río Claro'
+'7','San Clemente'
+'7','Maule'
+'7','San Rafael'
+'7','Empedrado'
+'7','Pencahue'
+'7','Constitución'
+'7','Curepto'
+
+
+
+INSERT INTO `camarade_talca`.`profesiones`  (`id`, `nombre`) VALUES('1','Abogacía/Derecho/Leyes'),('2','Actuario'),('3','Administración De Autotransporte y Logística'),('4','Administración de Empresas'),('5','Administración de Empresas de Servicios'),
+('6','Administración de Empresas Turísticas'),('7','Administración de Hoteles y Restaurantes'),('8','Administración de Negocios Internacionales'),('9','Administración de Predios Agrícolas');
+        
+		
+INSERT INTO `camarade_talca`.`profesiones`  (`id`, `nombre`) VALUES	('10','Administración de Ventas'),('11','Administración Empresas en Marketing y Comunicación Digital'),('12','Administración en Producción Gastronómica'),
+('13','Administración Financiera'),('14','Administración Hotelera Profesional'),('15','Administración Industrial'),('16','Administración Pública'),('17','Administración y Evaluación De Proyectos'),
+('18','Administración y Producción Agropecuaria'),('19','Agrobiotecnología'),('20','Agronomía'),('21','Análisis de Sistemas / Analista Programador'),('22','Animación Digital'),
+('23','Antropología'),('24','Arqueología'),('25','Arquitectura'),('26','Arte Dramático / Actuación / Teatro'),('27','Artes / Artes Plásticas / Artes Gráficas'),('28','Asistente de Odontología Dental'),
+('29','Asistente Ejecutivo'),('30','Asistente Judicial'),('31','Astronomía'),('32','Automatización y Control Industrial'),('33','Auxiliar Paramédico'),('34','Bachiller en Ciencias Religiosas'),
+('35','Bachillerato en Arte'),('36','Bachillerato en Ciencias'),('37','Bachillerato en Humanidades'),('38','Bacteriología'),('39','Bar Training'),('40','Bibliotecología / Documentación'),
+('41','Bíoanalisis / Biotecnología Industrial'),('42','Biología'),('43','Biología en Gestión de Recursos Naturales'),('44','Biología Marina'),('45','Bioquímica'),('46','Biotecnología / Bioingeniería'),('47','Caligrafía Pública');
+        
+INSERT INTO `camarade_talca`.`profesiones`  (`id`, `nombre`) VALUES ('48','Canto / Interpretación en Canto'),('49','Cartografía'),('50','Chofer / Transporte'),('51','Ciencia Política / Licenciatura en Ciencia Política'),
+('52','Ciencias Físicas'),('53','Ciencias Hídricas'),('54','Cine / Séptimo Arte'),('55','Clasificación Arancelaria y Despacho Aduanero'),('56','Comercialización'),
+('57','Comercio Internacional / Comercio Exterior'),('58','Computación e Informática'),('59','Comunicación Audiovisual / Multimedial'),('60','Comunicación Escénica'),
+('61','Comunicación Social / Empresarial'),('62','Consejería Educacional y Vocacional Enseñanza Básica'),('63','Consejería Educacional y Vocacional Enseñanza Media'),
+('64','Conservación Industrial de Alimentos por Frío'),('65','Construcción Civil'),('66','Construcciones Metálicas'),('67','Contactología'),('68','Contador Auditor'),
+('69','Contador General / Contabilidad'),('70','Contador Público y Auditor'),('71','Cosmetología'),('72','Creación e Interpretación Musical'),('73','Danza / Interpretación en Danza'),('74','Decoración de Interiores'),
+('75','Dibujo de Proyectos de Arquitectura e Ingenieria'),('76','Dibujo Industrial'),('77','Dibujo Técnico'),('78','Dibujo y Proyectos Industriales'),('79','Diplomado'),
+('80','Dirección de Arte'),('81','Dirección y Producción'),('82','Dirección y Producción de eventos'),('83','Diseño'),('84','Diseño de Interiores / Decoración'),('85','Diseño de Interiores y Mobiliario'),
+('86','Diseño de Objetos y Ambientes'),('87','Diseño de Vestuario / Textil / Moda'),('88','Diseño Digital'),('89','Diseño Editorial'),('90','Diseño Gráfico'),('91','Diseño Industrial / Dibujo Proyectos'),
+('92','Diseño y Producción de Areas Verdes'),('93','Diseño y Producción Industrial'),('94','Diseño y Programación Multimedia / Diseño Digital'),('95','Doctorado'),('96','Ecología'),('97','Economía '),
+('98','Ecoturismo'),('99','Educación Física'),('100','Educación Parvularia / Inicial / Párvulo'),('101','Electricidad'),('102','Electromecánico'),('103','Electrónica'),('104','Electrónica de Sistemas Computarizados'),
+('105','Enfermería');
+
+INSERT INTO `camarade_talca`.`profesiones`  (`id`, `nombre`) VALUES 
+        
+		367Enseñanza Media o Superior
+        
+		163Escenografía
+        
+		154Escultura
+        
+		102Estadísticas
+        
+		33Estética
+
+        
+		83Estudios espaciales
+        
+		360Farmacia Técnica
+        
+		34Filosofía
+        
+		35Finanzas Bancarias / Negocios Internacionales
+        
+		36Física / Ciencias Físicas
+        
+		119Fisioterapia
+
+        
+		169Fonoaudiología
+        
+		82Fotografía
+        
+		331Frigorista Electromecánico
+        
+		77Fuerzas Armadas / Milicia
+        
+		87Gasfitería
+        
+		81Gastronomía / Cocina
+
+        
+		484Geofísica
+        
+		108Geografía
+        
+		101Geología / Ciencias Geológicas
+        
+		72Geomensura / Topografía / Agrimensura
+        
+		164Geoquímica
+        
+		86Guardia de Seguridad
+
+        
+		332Higienista Dental
+        
+		153Historia / Licenciatura en Historia 
+        
+		139Historia del Arte
+        
+		37Historia y Geografía
+        
+		80Hotelería / Administración Hotelera
+        
+		170Idiomas
+
+        
+		255Ilustración Digital
+        
+		38Informática
+        
+		257Informática Biomédica
+        
+		68Ingeniería
+        
+		120Ingeniería Aerospacial / Aeronáutica
+        
+		486Ingeniería Agrícola
+
+        
+		109Ingeniería Ambiental
+        
+		144Ingeniería Biomédica
+        
+		371Ingeniería Bioquímica
+        
+		39Ingeniería Civil
+        
+		122Ingeniería Civil Eléctrica / Ingeniería Eléctrica 
+        
+		182Ingeniería Civil Electrónica
+
+        
+		333Ingeniería Civil en Electricidad
+        
+		445Ingeniería Civil en Energías Renovables
+        
+		334Ingeniería Civil en Informática / Computación
+        
+		277Ingenieria Civil en Sonido
+        
+		354Ingeniería Civil Industrial
+        
+		355Ingeniería Civil Matemática
+
+        
+		312Ingeniería Civil Mecánica
+        
+		40Ingeniería Comercial
+        
+		370Ingeniería de Bioprocesos
+        
+		145Ingeniería de Diseño / Automatización Electrónica
+        
+		69Ingeniería de Ejecución
+        
+		96Ingeniería de Ejecución en Administración
+
+        
+		258Ingeniería de Ejecución en Administración Hotelera
+        
+		259Ingeniería de Ejecución en Administración Turística
+        
+		350Ingeniería de Ejecución en Computación e Informática
+        
+		260Ingeniería de Ejecución en Marketing
+        
+		261Ingeniería de Ejecución en Mecánica Automotriz y Autotrónica
+        
+		103Ingeniería de Ejecución en Sonido
+
+        
+		357Ingeniería de Ejecución Industrial
+        
+		288Ingeniería de Información y Control de Gestión
+        
+		146Ingeniería de Petróleos / Petroquímica
+        
+		147Ingeniería de Producción
+        
+		438Ingeniería Diseño de Productos
+        
+		446Ingeniería Ejecución Administración de Empresas
+
+        
+		413Ingeniería Ejecución en Gestión Industrial
+        
+		410Ingeniería Ejecución Web Manager
+        
+		190Ingeniería Electrónica
+        
+		89Ingeniería en Acuicultura / Acuicultura
+        
+		184Ingeniería en Administración Agroindustrial
+        
+		473Ingeniería en Administración de Empresas
+
+        
+		275Ingeniería en Administración de Operaciones
+        
+		474Ingeniería en Administración Hotelera Internacional
+        
+		276Ingeniería en Administración Industrial
+        
+		247Ingeniería en Agronegocios
+        
+		353Ingeniería en Agronomía
+        
+		97Ingeniería en Alimentos
+
+        
+		335Ingeniería en Automatización y Control Industrial
+        
+		432Ingeniería en Automatización y Robótica
+        
+		412Ingeniería en Aviación Comercial
+        
+		241Ingeniería en Bioinformática
+        
+		336Ingenieria en Biotecnología
+        
+		340Ingenieria en Comercio / Negocio Internacional
+
+        
+		337Ingeniería en Computación
+        
+		246Ingeniería en Conectividad y Redes
+        
+		123Ingeniería en Construcción
+        
+		396Ingeniería en Control de Gestión
+        
+		305Ingeniería en Control e Instrumentación Industrial
+        
+		309Ingeniería en Deportes
+
+        
+		338Ingeniería en Electricidad
+        
+		395Ingeniería en Estadística
+        
+		196Ingeniería en Fabricación y montaje Ind.
+        
+		431Ingeniería en Física
+        
+		181Ingeniería en Geografía
+        
+		73Ingeniería en Geomensura
+
+        
+		191Ingeniería en Gestión
+        
+		339Ingeniería en Gestión de Calidad y Ambiente
+        
+		244Ingeniería en Gestión de Negocios
+        
+		433Ingeniería en Gestión e Informática
+        
+		229Ingeniería en Gestión y Control de Calidad
+        
+		230Ingeniería en Gestión y Desarrollo Tecnológico
+
+        
+		248Ingeniería en Industrias de la Madera
+        
+		104Ingeniería en Informática / Sistemas
+        
+		192Ingeniería en Logística
+        
+		193Ingeniería en Mantenimiento Industrial
+        
+		194Ingeniería en manufactura industrial
+        
+		358Ingeniería en Maquinaria y Vehículos Automotrices
+
+        
+		435Ingeniería en Marina Mercante
+        
+		242Ingeniería en Mecatrónica
+        
+		195Ingeniería en Metalmecánica
+        
+		124Ingeniería en Minas
+        
+		125Ingeniería en Obras Civiles
+        
+		231Ingeniería en Prevención de Riesgos
+
+        
+		198Ingeniería en procesos de la madera
+        
+		341Ingeniería en Proyectos Industriales
+        
+		183Ingeniería en Recursos Naturales Renovables
+        
+		197Ingeniería en Refrigeración y Climatización
+        
+		409Ingenieria en RRHH
+        
+		447Ingeniería en Sonido
+
+        
+		126Ingeniería en Telecomunicaciones
+        
+		121Ingeniería en Transporte
+        
+		436Ingeniería en transporte marítimo
+        
+		426Ingeniería en Turismo y Hotelería
+        
+		41Ingeniería Forestal
+        
+		127Ingeniería Hidráulica
+
+        
+		128Ingeniería Industrial
+        
+		129Ingeniería Matemáticas
+        
+		148Ingeniería Mecánica
+        
+		361Ingeniería Mecánica en Producción Industrial
+        
+		130Ingeniería Metálica / Metalúrgica
+        
+		132Ingeniería Pesquera / Cultivos Marinos
+
+        
+		133Ingeniería Química
+        
+		414Ingeniería Textil
+        
+		131Ingeniero Naval
+        
+		425Instrumentación Quirúrgica
+        
+		78Jardinería / Floricultura
+        
+		94Junior / Cadete / Oficinista 
+
+        
+		42Kinesiología
+        
+		134Laboratorio Dental / Mecánica Dental
+        
+		407Letras
+        
+		424Licenciatura en Archivología
+        
+		43Licenciatura en Arte / Bellas Artes
+        
+		429Licenciatura en Artes Visuales
+
+        
+		295Licenciatura en Ciencias Biológicas
+        
+		368Licenciatura en Ciencias del Medio Ambiente
+        
+		303Licenciatura en Ciencias Religiosas y Estudios Eclesiásticos
+        
+		374Licenciatura en Computación
+        
+		44Licenciatura en Educación / Magisterio
+        
+		430Licenciatura en Filosofía
+
+        
+		434Licenciatura en Física
+        
+		479Licenciatura en Gestión de Medios y Entretenimiento
+        
+		95Licenciatura en Literatura / Literatura / Letras
+        
+		423Licenciatura en Producción de Bio-Imágenes
+        
+		428Licenciatura en Química
+        
+		356Licenciatura en Recursos Humanos
+
+        
+		397Licenciatura en Seguridad e Higiene en el Trabajo
+        
+		475Licenciatura en Tecnología educativa
+        
+		437Licenciatura nivel inicial
+        
+		349Locución y Conducción de Radio y TV
+        
+		483Maestría en Dirección Comercial
+        
+		165Maestro Mayor de Obras
+
+        
+		304Magister
+        
+		300Magister en Ciencias de la Educación
+        
+		156Manteniemiento de Maquinaria Pesada
+        
+		155Mantenimiento de Maquinaria de Planta
+        
+		342Mantenimiento Industrial / Producción Industrial
+        
+		135Marketing / Mercadotecnia
+
+        
+		406Martillero y Corredor Público
+        
+		351Masoterapia
+        
+		45Matemática 
+        
+		306Matrón (a)
+        
+		92Mayordomo
+        
+		240MBA
+
+        
+		480MBA Ejecutivo
+        
+		481MBA Joven Profesional
+        
+		482MBA Profesional Internacional
+        
+		88Mecánica
+        
+		439Mecánica Automotriz
+        
+		249Mecánica Industrial
+
+        
+		394Mecatrónica
+        
+		46Medicina 
+        
+		47Medicina Veterinaria
+        
+		388Metálica y Autopartes
+        
+		232Meteorología
+        
+		211Microbiología industrial de alimentos
+
+        
+		212Minero Metalúrgico
+        
+		213Modelista de Vestuario
+        
+		166Museología
+        
+		48Música  
+        
+		343Músico - Terapia
+        
+		167Musicoterapia
+
+        
+		393Negocios Internacionales
+        
+		168Notario Público / Escribano Público
+        
+		49Nutrición / Nutrición y Dietética
+        
+		344Nutrición y Alimentación Institucional
+        
+		174Obstetricia y Puericultura
+        
+		67Oceanografía
+
+        
+		138Odontología
+        
+		140Oftalmología
+        
+		363Optica
+        
+		149Optometría
+        
+		84Orfebrería / Joyería
+        
+		279Orientación Familiar
+
+        
+		50Paisajismo / Diseño de Paisaje  
+        
+		85Panadero
+        
+		389Paramédico
+        
+		75Párvulo
+        
+		280Pastelería Internacional
+        
+		51Pedagogía
+
+        
+		116Pedagogía Básica / Educación Básica / Primaria
+        
+		301Pedagogía Educación Media en Lenguaje y Comunicación
+        
+		448Pedagogía en Biología y Ciencias Naturales
+        
+		179Pedagogía en Ciencias 
+        
+		292Pedagogía en Cs. Naturales y Física
+        
+		291Pedagogía en Cs. Naturales y Química
+
+        
+		286Pedagogía en Educación Diferencial
+        
+		142Pedagogía en Educación Física y Deporte
+        
+		178Pedagogía en Historia / Ciencias Sociales
+        
+		176Pedagogía en Inglés / Idiomas
+        
+		310Pedagogía en Lengua Castellana y Comunicación
+        
+		177Pedagogía en Matemáticas / Computación
+
+        
+		175Pedagogía en Música / Arte
+        
+		180Pedagogía en Religión
+        
+		117Pedagogía Media / Educación Media / Secundaria
+        
+		302Pedagogía Media en Religión y Educación Moral
+        
+		372Peluquería
+        
+		52Periodismo
+
+        
+		417Periodismo Deportivo
+        
+		236Perito Criminalístico
+        
+		90Piloto / Aviación
+        
+		150Pintura
+        
+		373Podología
+        
+		262Preparador Físico
+
+        
+		98Prevención de Riesgos / Seguridad Industrial 
+        
+		379Procesos Agroindustriales
+        
+		390Procesos De Producción
+        
+		281Producción Gastronómica
+        
+		282Producción Musical
+        
+		53Programación
+
+        
+		54Psicología
+        
+		234Psicología Clínica
+        
+		235Psicología Educacional
+        
+		233Psicología Laboral
+        
+		55Psicopedagogía / Educación Diferencial
+        
+		307Publicidad
+
+        
+		308Publicidad Profesional Mención Marketing y Medios
+        
+		272Publicidad Técnica Mención Marketing Promocional
+        
+		408Puericultura
+        
+		57Química / Analista Químico
+        
+		380Química De Materiales
+        
+		345Química Industrial
+
+        
+		294Química Marina
+        
+		58Química y Farmacia
+        
+		283Químico Laboratista Industrial
+        
+		59Recursos Humanos / Relaciones Industriales
+        
+		157Redes y Comunicación de Datos / Conectividad 
+        
+		346Relaciones del Trabajo
+
+        
+		136Relaciones Internacionales
+        
+		60Relaciones Públicas
+        
+		79Sacerdocio
+        
+		70Secretariado
+        
+		71Secretariado Bilingue
+        
+		391Servicios  Posventa Área Automotriz
+
+        
+		111Servicios Domésticos 
+        
+		91Sevicios Domésticos / Empleada Doméstica
+        
+		392Sistemas de Gestión de la Calidad
+        
+		61Sociología
+        
+		76Técnico / Tecnólogo / Técnico Superior
+        
+		263Técnico Agrícola
+
+        
+		264Técnico AudioVisual
+        
+		458Técnico Cinematográfico
+        
+		201Técnico Control de producción industrial
+        
+		443Técnico de Nivel Sup. en Contacto con la Naturaleza y Deporte Aventura
+        
+		444Técnico de Nivel Sup. en Guía Turístico en la Naturaleza
+        
+		455Técnico de Nivel Superior en Actividad Física y Deportes
+
+        
+		450Técnico de Nivel Superior en Administración de Empresas
+        
+		452Técnico de Nivel Superior en Administración de Negocios Gastronómicos
+        
+		456Técnico de Nivel Superior en Bioprocesos Industriales
+        
+		451Técnico de Nivel Superior en Computación
+        
+		453Técnico de Nivel Superior en Organización y Producción de Eventos
+        
+		449Técnico de Nivel Superior en Sonido
+
+        
+		454Técnico de Nivel Superior en Vitivinicultura y Enología
+        
+		265Técnico de RadioDiagnóstico y Radioterapia
+        
+		352Técnico Deportivo
+        
+		299Técnico en Administración de Programas Sociales
+        
+		366Técnico en Administración de Recursos Humanos
+        
+		464Técnico en Arte y Gestión Cultural
+
+        
+		359Técnico en Climatización
+        
+		415Técnico en Comunicación para las Organizaciones Sociales
+        
+		200Técnico en control de calidad
+        
+		463Técnico en Diseño de Espacios y Equipamientos
+        
+		208Técnico en Diseño editorial
+        
+		271Técnico en Diseño Gráfico
+
+        
+		416Técnico en Economía y Administración de la pequeñas y mediana empresa
+        
+		202Técnico en Edificación
+        
+		203Técnico en Electricidad
+        
+		204Técnico en Electricidad Industrial
+        
+		238Técnico en Enfermería
+        
+		205Técnico en Fabricación y montaje Industrial
+
+        
+		228Técnico en Geomensura
+        
+		206Técnico en Gestión y Control de calidad
+        
+		207Técnico en Logística
+        
+		369Técnico en Mantención
+        
+		209Técnico en Matricería
+        
+		219Técnico en Medio Ambiente
+
+        
+		210Técnico en Metalmecánica
+        
+		214Técnico en Obras civiles
+        
+		278Técnico en Oleohidráulica y Neumática
+        
+		362Técnico en óptica
+        
+		216Técnico en Planificación Vial
+        
+		477Técnico en Prevención de Riesgos
+
+        
+		217Técnico en Procesos de la madera
+        
+		418Técnico en Producción y realización de medios masivos
+        
+		218Técnico en Refrigeración
+        
+		348Técnico en Restauración
+        
+		462Técnico en Salud Natural y Terapias Complementarias
+        
+		284Técnico en Soporte Computacional
+
+        
+		226Técnico en Topografia
+        
+		461Técnico en Trabajo Social
+        
+		227Técnico en Tránsito y Transporte
+        
+		427Técnico Financiero
+        
+		245Técnico Jurídico
+        
+		289Técnico Marino
+
+        
+		488Técnico Nivel Medio Naval
+        
+		487Técnico Nivel Superior Naval
+        
+		419Técnico Productor en Medios Visuales
+        
+		420Técnico Profesional Archivero
+        
+		347Técnico Superior en Administración Agrícola
+        
+		421Técnico Superior en administración cooperativa y mutual
+
+        
+		422Técnico Superior en Bromatología
+        
+		266Técnico Veterinario
+        
+		220Tecnología en gestión Forestal
+        
+		459Tecnología en Metalurgia
+        
+		285Técnología en Minería
+        
+		221Tecnología en Minería y Metalurgía
+
+        
+		290Tecnología en Recursos del Mar
+        
+		267Tecnología en Sonido
+        
+		222Tecnología Forestal
+        
+		223Tecnología Industrial de alimentos del mar
+        
+		224Tecnología Industrial de la madera
+        
+		225Tecnología Industrial de los alimentos
+
+        
+		112Tecnología Médica
+        
+		457Tecnología Pecuaria
+        
+		381Tecnologías De La Información y Comunicación
+        
+		364Tecnólogo / Técnico Control Industrial
+        
+		365Tecnólogo / Técnico en alimentos
+        
+		199Tecnólogo / Técnico en Construcción
+
+        
+		143Telecomunicaciones
+        
+		62Teología
+        
+		151Terapia Física
+        
+		137Terapia Ocupacional
+        
+		63Trabajo Social / Servicio Social
+        
+		106Traducción / Intérprete
+
+        
+		100Tripulante de Cabina / Azafata(o)
+        
+		64Turismo  / Administración en Turismo
+        
+		268Turismo de Aventura
+        
+		269Turismo Técnico Mención Empresas de Viajes
+        
+		270Turismo Técnico Mención Tráfico y Carga Aérea
+        
+		65Urbanismo
+
+        
+		56Venta y Publicidad
+        
+		152Zootecnia / Zoología
+
+         			   			
+					
