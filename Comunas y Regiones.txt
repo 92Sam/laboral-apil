@@ -61,789 +61,203 @@ INSERT INTO `camarade_talca`.`profesiones`  (`id`, `nombre`) VALUES ('48','Canto
 ('98','Ecoturismo'),('99','Educación Física'),('100','Educación Parvularia / Inicial / Párvulo'),('101','Electricidad'),('102','Electromecánico'),('103','Electrónica'),('104','Electrónica de Sistemas Computarizados'),
 ('105','Enfermería');
 
-INSERT INTO `camarade_talca`.`profesiones`  (`id`, `nombre`) VALUES 
-        
-		367Enseñanza Media o Superior
-        
-		163Escenografía
-        
-		154Escultura
-        
-		102Estadísticas
-        
-		33Estética
+INSERT INTO `camarade_talca`.`profesiones`  (`id`, `nombre`) VALUES ('106','Enseñanza Media o Superior'),('107','Escenografía'),('108','Escultura'),('109','Estadísticas'),('110','Estética'),('111','Estudios espaciales'),
+('112','Farmacia Técnica'),('113','Filosofía'),('114','Finanzas Bancarias / Negocios Internacionales'),('115','Física / Ciencias Físicas'),('116','Fisioterapia'),('117','Fonoaudiología'),('118','Fotografía'),('119','Frigorista Electromecánico'),
+('120','Fuerzas Armadas / Milicia'),('121','Gasfitería'),('122','Gastronomía / Cocina'),('123','Geofísica'),('124','Geografía'),('125','Geología / Ciencias Geológicas'),('126','Geomensura / Topografía / Agrimensura'),
+('127','Geoquímica'),('128','Guardia de Seguridad'),('129','Higienista Dental'),('130','Historia / Licenciatura en Historia'),('131','Historia del Arte'),('132,'Historia y Geografía'),('133','Hotelería / Administración Hotelera'),
+('134','Idiomas'),('135','Ilustración Digital'),('136','Informática'),('137','Informática Biomédica'),('138','Ingeniería'),('139','Ingeniería Aerospacial / Aeronáutica'),('140','Ingeniería Agrícola'),('141','Ingeniería Ambiental'),('142','Ingeniería Biomédica'),
+('143','Ingeniería Bioquímica'),('144','Ingeniería Civil'),('145','Ingeniería Civil Eléctrica / Ingeniería Eléctrica '),('146','Ingeniería Civil Electrónica'),('147','Ingeniería Civil en Electricidad'),('148','Ingeniería Civil en Energías Renovables'),
+('149','Ingeniería Civil en Informática / Computación'),('150','Ingenieria Civil en Sonido'),('151','Ingeniería Civil Industrial'),('152','Ingeniería Civil Matemática'),('153','Ingeniería Civil Mecánica'),('154','Ingeniería Comercial'),('155','Ingeniería de Bioprocesos'),
+('156','Ingeniería de Diseño / Automatización Electrónica'),('157','Ingeniería de Ejecución'),('158','Ingeniería de Ejecución en Administración'),('159','Ingeniería de Ejecución en Administración Hotelera'),('160','Ingeniería de Ejecución en Administración Turística'),
+('161','Ingeniería de Ejecución en Computación e Informática'),('162','Ingeniería de Ejecución en Marketing'),('163','Ingeniería de Ejecución en Mecánica Automotriz y Autotrónica'),('164','Ingeniería de Ejecución en Sonido'),
+('165','Ingeniería de Ejecución Industrial'),('166','Ingeniería de Información y Control de Gestión'),('167','Ingeniería de Petróleos / Petroquímica'),('168','Ingeniería de Producción'),('169','Ingeniería Diseño de Productos'),
+('170','Ingeniería Ejecución Administración de Empresas'),('171','Ingeniería Ejecución en Gestión Industrial'),('172','Ingeniería Ejecución Web Manager'),('173','Ingeniería Electrónica'),('174','Ingeniería en Acuicultura / Acuicultura'),('175','Ingeniería en Administración Agroindustrial'),
+('176','Ingeniería en Administración de Empresas'),('177','Ingeniería en Administración de Operaciones'),('178','Ingeniería en Administración Hotelera Internacional'),('179','Ingeniería en Administración Industrial'),('180','Ingeniería en Agronegocios'),('181','Ingeniería en Agronomía'),
+('182','Ingeniería en Alimentos'),('183','Ingeniería en Automatización y Control Industrial'),('184','Ingeniería en Automatización y Robótica'),('185','Ingeniería en Aviación Comercial'),('186','Ingeniería en Bioinformática'),('187','Ingenieria en Biotecnología'),
+('188','Ingenieria en Comercio / Negocio Internacional'),('189','Ingeniería en Computación'),('190','Ingeniería en Conectividad y Redes'),('191','Ingeniería en Construcción'),('192','Ingeniería en Control de Gestión'),('193','Ingeniería en Control e Instrumentación Industrial'),
+('194','Ingeniería en Deportes'),('195','Ingeniería en Electricidad'),('196','Ingeniería en Estadística'),('197','Ingeniería en Fabricación y montaje Ind.'),('198','Ingeniería en Física'),('199','Ingeniería en Geografía'),('200','Ingeniería en Geomensura'),
+('201','Ingeniería en Gestión'),('202','Ingeniería en Gestión de Calidad y Ambiente'),('203','Ingeniería en Gestión de Negocios'),('204','Ingeniería en Gestión e Informática'),('205','Ingeniería en Gestión y Control de Calidad'),
+('206','Ingeniería en Gestión y Desarrollo Tecnológico'),('207','Ingeniería en Industrias de la Madera'),('208','Ingeniería en Informática / Sistemas'),('209','Ingeniería en Logística'),('210','Ingeniería en Mantenimiento Industrial'),('211','Ingeniería en manufactura industrial'),
+('212','Ingeniería en Maquinaria y Vehículos Automotrices'),('213','Ingeniería en Marina Mercante'),('214','Ingeniería en Mecatrónica'),('215','Ingeniería en Metalmecánica'),('216','Ingeniería en Minas'),('217','Ingeniería en Obras Civiles'),
+('218','Ingeniería en Prevención de Riesgos'),('219','Ingeniería en procesos de la madera'),('220','Ingeniería en Proyectos Industriales'),('221','Ingeniería en Recursos Naturales Renovables'),('222','Ingeniería en Refrigeración y Climatización'),('223','Ingenieria en RRHH'),
+('224','Ingeniería en Sonido'),('225','Ingeniería en Telecomunicaciones'),('226','Ingeniería en Transporte'),('227','Ingeniería en transporte marítimo'),('228','Ingeniería en Turismo y Hotelería'),('229','Ingeniería Forestal'),('230','Ingeniería Hidráulica'),('231','Ingeniería Industrial'),
+('232','Ingeniería Matemáticas'),('233','Ingeniería Mecánica'),('234','Ingeniería Mecánica en Producción Industrial'),('235','Ingeniería Metálica / Metalúrgica'),('236','Ingeniería Pesquera / Cultivos Marinos'),('237','Ingeniería Química'),('238','Ingeniería Textil'),('239','Ingeniero Naval'),
+('240','Instrumentación Quirúrgica'),('241','Jardinería / Floricultura'),('242','Junior / Cadete / Oficinista'),('243','Kinesiología'),('244','Laboratorio Dental / Mecánica Dental'),('245','Letras'),('246','Licenciatura en Archivología'),('247','Licenciatura en Arte / Bellas Artes'),
+('248','Licenciatura en Artes Visuales'),('249','Licenciatura en Ciencias Biológicas'),('250','Licenciatura en Ciencias del Medio Ambiente'),('251','Licenciatura en Ciencias Religiosas y Estudios Eclesiásticos'),('252','Licenciatura en Computación'),('253','Licenciatura en Educación / Magisterio'),
+('254','Licenciatura en Filosofía'),('255','Licenciatura en Física'),('256','Licenciatura en Gestión de Medios y Entretenimiento'),('257','Licenciatura en Literatura / Literatura / Letras'),('258','Licenciatura en Producción de Bio-Imágenes'),('259','Licenciatura en Química'),('260','Licenciatura en Recursos Humanos'),
+('261','Licenciatura en Seguridad e Higiene en el Trabajo'),('262','Licenciatura en Tecnología educativa'),('263','Licenciatura nivel inicial'),('264','Locución y Conducción de Radio y TV'),('265','Maestría en Dirección Comercial'),('266','Maestro Mayor de Obras'),('267','Magister'),('268','Magister en Ciencias de la Educación'),
+('269','Manteniemiento de Maquinaria Pesada'),('270','Mantenimiento de Maquinaria de Planta'),('271','Mantenimiento Industrial / Producción Industrial'),('272','Marketing / Mercadotecnia'),('273','Martillero y Corredor Público'),('274','Masoterapia'),('275','Matemática'),('276','Matrón(a)'),('277','Mayordomo'),('278','MBA'),('279','MBA Ejecutivo'),
+('280','MBA Joven Profesional'),('281','MBA Profesional Internacional'),('282','Mecánica'),('283','Mecánica Automotriz'),('284','Mecánica Industrial'),('285','Mecatrónica'),('286','Medicina'),('287','Medicina Veterinaria'),('288','Metálica y Autopartes'),('289','Meteorología'),
+('290','Microbiología industrial de alimentos'),('291','Minero Metalúrgico'),('292','Modelista de Vestuario'),('293','Museología'),('294','Música'),('295','Músico - Terapia'),('296','Musicoterapia'),('297','Negocios Internacionales'),('298','Notario Público / Escribano Público'),('299','Nutrición / Nutrición y Dietética'),('300','Nutrición y Alimentación Institucional'),
+('301','Obstetricia y Puericultura'),('302','Oceanografía'),('303','Odontología'),('304','Oftalmología'),('305','Optica'),('306','Optometría'),('307','Orfebrería / Joyería'),('308','Orientación Familiar'),('309','Paisajismo / Diseño de Paisaje'),('310','Panadero'),('311','Paramédico'),('312','Párvulo'),('313','Pastelería Internacional'),
+('314','Pedagogía'),('315','Pedagogía Básica / Educación Básica / Primaria'),('316','Pedagogía Educación Media en Lenguaje y Comunicación'),('317','Pedagogía en Biología y Ciencias Naturales'),('318','Pedagogía en Ciencias'),('319','Pedagogía en Cs. Naturales y Física'),('320','Pedagogía en Cs. Naturales y Química');
 
-        
-		83Estudios espaciales
-        
-		360Farmacia Técnica
-        
-		34Filosofía
-        
-		35Finanzas Bancarias / Negocios Internacionales
-        
-		36Física / Ciencias Físicas
-        
-		119Fisioterapia
 
-        
-		169Fonoaudiología
-        
-		82Fotografía
-        
-		331Frigorista Electromecánico
-        
-		77Fuerzas Armadas / Milicia
-        
-		87Gasfitería
-        
-		81Gastronomía / Cocina
+INSERT INTO `camarade_talca`.`profesiones`  (`id`, `nombre`) VALUES  ('321','Pedagogía en Educación Diferencial'),('322','Pedagogía en Educación Física y Deporte'),('323','Pedagogía en Historia / Ciencias Sociales'),('324','Pedagogía en Inglés / Idiomas'),('325','Pedagogía en Lengua Castellana y Comunicación'),('326','Pedagogía en Matemáticas / Computación'),
+('327','Pedagogía en Música / Arte'),('328','Pedagogía en Religión'),('329','Pedagogía Media / Educación Media / Secundaria'),('330','Pedagogía Media en Religión y Educación Moral'),('331','Peluquería'),('332','Periodismo'),('333','Periodismo Deportivo'),('334','Perito Criminalístico'),('335','Piloto / Aviación'),
+('336','Pintura'),('337','Podología'),('338','Preparador Físico'),('339','Prevención de Riesgos / Seguridad Industrial'),('340','Procesos Agroindustriales'),('341','Procesos De Producción'),('342','Producción Gastronómica'),('343','Producción Musical'),('344','Programación'),('345','Psicología'),('346','Psicología Clínica'),
+('347','Psicología Educacional'),('348','Psicología Laboral'),('349','Psicopedagogía / Educación Diferencial'),('350','Publicidad'),('351','Publicidad Profesional Mención Marketing y Medios'),('352','Publicidad Técnica Mención Marketing Promocional'),('353','Puericultura'),('354','Química / Analista Químico'),('355','Química De Materiales'),
+('356','Química Industrial'),('357','Química Marina'),('358','Química y Farmacia'),('359','Químico Laboratista Industrial'),('360','Recursos Humanos / Relaciones Industriales'),('361','Redes y Comunicación de Datos / Conectividad'), ('362','Relaciones del Trabajo'),('363','Relaciones Internacionales'),('363','Relaciones Públicas'),('364','Sacerdocio'),
+('365','Secretariado'),('366','Secretariado Bilingue'),('367','Servicios  Posventa Área Automotriz'),('368','Servicios Domésticos'),('369','Sevicios Domésticos / Empleada Doméstica'),('370','Sistemas de Gestión de la Calidad'),('371','Sociología'),('372','Técnico / Tecnólogo / Técnico Superior'),
+('373','Técnico Agrícola'),('374','Técnico AudioVisual'),('375','Técnico Cinematográfico'),('376','Técnico Control de producción industrial'),('377','Técnico de Nivel Sup. en Contacto con la Naturaleza y Deporte Aventura'),('378','Técnico de Nivel Sup. en Guía Turístico en la Naturaleza'),('379','Técnico de Nivel Superior en Actividad Física y Deportes'),
+('380','Técnico de Nivel Superior en Administración de Empresas'),('381','Técnico de Nivel Superior en Administración de Negocios Gastronómicos'),('382','Técnico de Nivel Superior en Bioprocesos Industriales'),('383','Técnico de Nivel Superior en Computación'),('384','Técnico de Nivel Superior en Organización y Producción de Eventos'),
+('385','Técnico de Nivel Superior en Sonido'),('386','Técnico de Nivel Superior en Vitivinicultura y Enología'),('387','Técnico de RadioDiagnóstico y Radioterapia'),('388','Técnico Deportivo'),('388','Técnico en Administración de Programas Sociales'),('389','Técnico en Administración de Recursos Humanos'),
+('390','Técnico en Arte y Gestión Cultural'),('391','Técnico en Climatización'),('392','Técnico en Comunicación para las Organizaciones Sociales'),('393','Técnico en control de calidad'),('394','Técnico en Diseño de Espacios y Equipamientos'),('395','Técnico en Diseño editorial'),('396','Técnico en Diseño Gráfico'),('397','Técnico en Economía y Administración de la pequeñas y mediana empresa'),
+('398','Técnico en Edificación'),('399','Técnico en Electricidad'),('400','Técnico en Electricidad Industrial'),('401','Técnico en Enfermería'),('402','Técnico en Fabricación y montaje Industrial'),('403','Técnico en Geomensura'),('404','Técnico en Gestión y Control de calidad'),('405','Técnico en Logística'),('406','Técnico en Mantención'),
+('407','Técnico en Matricería'),('408','Técnico en Medio Ambiente'),('409','Técnico en Metalmecánica'),('410','Técnico en Obras civiles'),('411','Técnico en Oleohidráulica y Neumática'),('412','Técnico en óptica'),('413','Técnico en Planificación Vial'),('414','Técnico en Prevención de Riesgos'),('415','Técnico en Procesos de la madera('416','Técnico en Producción y realización de medios masivos'),
+('417','Técnico en Refrigeración'),('418','Técnico en Restauración'),('419','Técnico en Salud Natural y Terapias Complementarias'),('420','Técnico en Soporte Computacional'),('421','Técnico en Topografia'),('422','Técnico en Trabajo Social'),('423','Técnico en Tránsito y Transporte'),('424','Técnico Financiero'),
+('425','Técnico Jurídico'),('426','Técnico Marino'),('427','Técnico Nivel Medio Naval'),('428','Técnico Nivel Superior Naval'),('429','Técnico Productor en Medios Visuales'),('430','Técnico Profesional Archivero'),('431','Técnico Superior en Administración Agrícola'),('432','Técnico Superior en administración cooperativa y mutual'),('433','Técnico Superior en Bromatología'),
+('434','Técnico Veterinario'),('435','Tecnología en gestión Forestal'),('436','Tecnología en Metalurgia'),('437','Técnología en Minería'),('438','Tecnología en Minería y Metalurgía'),('439','Tecnología en Recursos del Mar'),('440','Tecnología en Sonido'),('441','Tecnología Forestal'),('442','Tecnología Industrial de alimentos del mar'),('443','Tecnología Industrial de la madera'),
+('444','Tecnología Industrial de los alimentos'),('445','Tecnología Médica'),('446','Tecnología Pecuaria'),('447','Tecnologías De La Información y Comunicación'),('448','Tecnólogo / Técnico Control Industrial'),('449','Tecnólogo / Técnico en alimentos'),('450','Tecnólogo / Técnico en Construcción'),('451','Telecomunicaciones'),('452','Teología'),('453','Terapia Física'),
+('454','Terapia Ocupacional'),('455','Trabajo Social / Servicio Social'),('456','Traducción / Intérprete'),('457','Tripulante de Cabina / Azafata(o)'),('458','Turismo  / Administración en Turismo'),('459','Turismo de Aventura'),('460','Turismo Técnico Mención Empresas de Viajes'),('461','Turismo Técnico Mención Tráfico y Carga Aérea'),('462','Urbanismo'),
+('463','Venta y Publicidad'),('464','Zootecnia / Zoología');
 
-        
-		484Geofísica
-        
-		108Geografía
-        
-		101Geología / Ciencias Geológicas
-        
-		72Geomensura / Topografía / Agrimensura
-        
-		164Geoquímica
-        
-		86Guardia de Seguridad
 
-        
-		332Higienista Dental
-        
-		153Historia / Licenciatura en Historia 
-        
-		139Historia del Arte
-        
-		37Historia y Geografía
-        
-		80Hotelería / Administración Hotelera
-        
-		170Idiomas
+INSERT INTO `camarade_talca`.`Comuna`  (`id_region`, `nombre`) VALUES('1','Iquique'),('1','Alto Hospicio'),('1','Huara'),('1','Camiña'),('1','Colchane'),('1','Pica'),('1','Pozo Almonte');	
 
-        
-		255Ilustración Digital
-        
-		38Informática
-        
-		257Informática Biomédica
-        
-		68Ingeniería
-        
-		120Ingeniería Aerospacial / Aeronáutica
-        
-		486Ingeniería Agrícola
+INSERT INTO `camarade_talca`.`Comuna`  (`id_region`, `nombre`) VALUES('2','Antofagasta'),('2','Mejillones'),('2','Sierra Gorda'),('2','Taltal'),('2','Calama'),('2','Ollague'),('2','San Pedro de Atacama'),
+('2','Tocopilla'), ('2','María Elena');
 
-        
-		109Ingeniería Ambiental
-        
-		144Ingeniería Biomédica
-        
-		371Ingeniería Bioquímica
-        
-		39Ingeniería Civil
-        
-		122Ingeniería Civil Eléctrica / Ingeniería Eléctrica 
-        
-		182Ingeniería Civil Electrónica
+INSERT INTO `camarade_talca`.`Comuna`  (`id_region`, `nombre`) VALUES('3','Chañaral'),('3','Diego de Almagro'),('3','Copiapó'),('3','Caldera'),('3','Tierra Amarilla'),
+('3','Vallenar'),('3','Freirina'),('3','Huasco'),('3','Alto del Carmen');
 
-        
-		333Ingeniería Civil en Electricidad
-        
-		445Ingeniería Civil en Energías Renovables
-        
-		334Ingeniería Civil en Informática / Computación
-        
-		277Ingenieria Civil en Sonido
-        
-		354Ingeniería Civil Industrial
-        
-		355Ingeniería Civil Matemática
+INSERT INTO `camarade_talca`.`Comuna`  (`id_region`, `nombre`) VALUES ('4','Illapel'),('4','Salamanca'),('4','Los Vilos'),('4','Canela o Mincha'),('4','La Serena'),('4','La Higuera'),('4','Coquimbo'),('4','Andacollo'),('4','Vicuña'),	    
+('4','Paihuano'),('4','Ovalle'),('4','Río Hurtado'),('4','Monte Patria'),('4','Combarbalá'),('4','Punitaqui');
 
-        
-		312Ingeniería Civil Mecánica
-        
-		40Ingeniería Comercial
-        
-		370Ingeniería de Bioprocesos
-        
-		145Ingeniería de Diseño / Automatización Electrónica
-        
-		69Ingeniería de Ejecución
-        
-		96Ingeniería de Ejecución en Administración
+INSERT INTO `camarade_talca`.`Comuna`  (`id_region`, `nombre`) VALUES('5','Isla de Pascua'),('5','Los Andes'),('5','San Esteban'),('5','Calle Larga'),('5','Rinconada'),('5','Quilpué'),('5','Villa Alemana'),('5','Limache'),('5','Olmué'),
+('5','Petorca'),('5','La Ligua'),('5','Cabildo'),('5','Papudo'),('5','Zapallar'),('5','Quillota'),('5','Calera'),('5','Hijuelas'),('5','La Cruz'),('5','Nogales'),('5','San Antonio'),('5','Algarrobo'),('5','Cartagena'),('5','El Quisco'),	    
+('5','El Tabo'),('5','Santo Domingo'),('5','San Felipe'),('5','Catemu'),('5','Llayllay'),('5','Panquehue'),('5','Putaendo'),	    
+('5','Santa María'),('5','Valparaíso'),('5','Casablanca'),('5','Concon'),('5','Juan Fernández'),('5','Puchuncaví'),('5','Quintero'),('5','Viña del Mar');
 
-        
-		258Ingeniería de Ejecución en Administración Hotelera
-        
-		259Ingeniería de Ejecución en Administración Turística
-        
-		350Ingeniería de Ejecución en Computación e Informática
-        
-		260Ingeniería de Ejecución en Marketing
-        
-		261Ingeniería de Ejecución en Mecánica Automotriz y Autotrónica
-        
-		103Ingeniería de Ejecución en Sonido
+INSERT INTO `camarade_talca`.`Comuna`  (`id_region`, `nombre`) VALUES ('6','Rancagua'),('6','Codegua'),('6','Coinco'),('6','Coltauco'),('6','Doñihue'),('6','Graneros'),('6','Las Cabras'),('6','Mostazal'),('6','Machalí'),('6','Malloa'),('6','Olivar'),	    
+('6','Peumo'),('6','Pichidegua'),('6','Quinta de Tilcoco'),('6','Rengo'),('6','Requinoa'),('6','San Vicente'),('6','Pichilemu'),('6','La Estrella'),('6','Litueche'),('6','Marchigue'),('6','Navidad'),    
+('6','Paredones'),('6','San Fernando'),('6','Chépica'),('6','Chimbarongo'),('6','Lolol'),('6','Nancagua'),('6','Palmilla'),('6','Peralillo'),('6','Placilla'),('6','Pumanque'), ('6','Santa Cruz');
 
-        
-		357Ingeniería de Ejecución Industrial
-        
-		288Ingeniería de Información y Control de Gestión
-        
-		146Ingeniería de Petróleos / Petroquímica
-        
-		147Ingeniería de Producción
-        
-		438Ingeniería Diseño de Productos
-        
-		446Ingeniería Ejecución Administración de Empresas
+INSERT INTO `camarade_talca`.`Comuna`  (`id_region`, `nombre`) VALUES ('7','Cauquenes'),('7','Pelluhue'),('7','Chanco'),('7','Curicó'),('7','Teno'),('7','Romeral'),('7','Molina'),('7','Sagrada Familia'),('7','Hualañé'),('7','Licantén'),('7','Vichuquén'),	    
+('7','Rauco'),('7','Linares'),('7','Yerbas Buenas'),('7','Colbún'),('7','Longaví'),('7','Parral'),('7','Retiro'),('7','Villa Alegre'),('7','San Javier');
 
-        
-		413Ingeniería Ejecución en Gestión Industrial
-        
-		410Ingeniería Ejecución Web Manager
-        
-		190Ingeniería Electrónica
-        
-		89Ingeniería en Acuicultura / Acuicultura
-        
-		184Ingeniería en Administración Agroindustrial
-        
-		473Ingeniería en Administración de Empresas
+INSERT INTO `camarade_talca`.`Comuna`  (`id_region`, `nombre`) VALUES('8','Lebu'),('8','Arauco'),('8','Curanilahue'),('8','Los Alamos'),('8','Cañete'),('8','Contulmo'),('8','Tirua'),('8','Los Angeles'),	    
+('8','Cabrero'),('8','Tucapel'),('8','Antuco'),('8','Quilleco'),	    
+('8','Santa Bárbara'),   
+('8','Quilaco'),	    
+('8','Mulchén'),	    
+('8','Negrete'),	    
+('8','Nacimiento'),	    
+('8','Laja'),    
+('8','San Rosendo'),	    
+('8','Yumbel'),    
+('8','Alto Bío Bío'),
+('8','Concepción'),	    
+('8','Talcahuano'),	    
+('8','Penco'),   
+('8','Tomé'),	    
+('8','Florida'),    
+('8','Hualqui'),	    
+('8','Santa Juana'),	    
+('8','Lota'),  
+('8','Coronel'),   
+('8','San Pedro de la Paz'),    
+('8','Chiguayante'),	    
+('8','Hualpén'),
+('8','Chillán'),	    
+('8','San Carlos'),	    
+('8','Ñiquén'),	    
+('8','San Fabián'),	    
+('8','Coihueco'),	    
+('8','Pinto'),	    
+('8','San Ignacio'),	    
+('8','El Carmen'),	    
+('8','Yungay'),    
+('8','Pemuco'),	    
+('8','Bulnes'),	    
+('8','Quillón'),	    
+('8','Ranquil'),    
+('8','Portezuelo'),	    
+('8','Coelemu'),    
+('8','Trehuaco'),	    
+('8','Cobquecura'),	    
+('8','Quirihue'),	    
+('8','Ninhue'),	    
+('8','San Nicolás'),	    
+('8','Chillan Viejo');
 
-        
-		275Ingeniería en Administración de Operaciones
-        
-		474Ingeniería en Administración Hotelera Internacional
-        
-		276Ingeniería en Administración Industrial
-        
-		247Ingeniería en Agronegocios
-        
-		353Ingeniería en Agronomía
-        
-		97Ingeniería en Alimentos
+INSERT INTO `camarade_talca`.`Comuna`  (`id_region`, `nombre`) VALUES
+('9','Temuco'),	    
+('9','Carahue'),	    
+('9','Cunco'),	    
+('9','Curarrehue'),	    
+('9','Freire'),	    
+('9','Galvarino'),	    
+('9','Gorbea'),	    
+('9','Lautaro'),	    
+('9','Loncoche'),    
+('9','Melipeuco'),	    
+('9','Nueva Imperial'),	    
+('9','Padre las Casas'),	    
+('9','Perquenco'),	    
+('9','Pitrufquén'),	    
+('9','Pucón'),	    
+('9','Saavedra'),  
+('9','Teodoro Schmidt'), 
+('9','Toltén'),	    
+('9','Vilcún'),	    
+('9','Villarrica'),	    
+('9','Chol Chol'),
+('9','Angol'),	    
+('9','Collipulli'),	    
+('9','Curacautín'),  
+('9','Ercilla'),   
+('9','Lonquimay'),	    
+('9','Los Sauces'),	    
+('9','Lumaco'),	    
+('9','Purén'),	    
+('9','Renaico'),    
+('9','Traiguén'),   
+('9','Victoria');
 
-        
-		335Ingeniería en Automatización y Control Industrial
-        
-		432Ingeniería en Automatización y Robótica
-        
-		412Ingeniería en Aviación Comercial
-        
-		241Ingeniería en Bioinformática
-        
-		336Ingenieria en Biotecnología
-        
-		340Ingenieria en Comercio / Negocio Internacional
+INSERT INTO `camarade_talca`.`Comuna`  (`id_region`, `nombre`) VALUES
+('10','Ancud'), 
+('10','Castro'), 
+('10','Curaco de Vélez'), 
+('10','Chonchi'), 
+('10','Dalcahue'), 
+('10','Puqueldón'),    
+('10','Queilén'), 
+('10','Quellón'), 
+('10','Quemchi'), 
+('10','Quinchao'), 
+('10','Calbuco'), 
+('10','Cochamó'), 
+('10','Fresia'), 
+('10','Frutillar'),    
+('10','Los Muermos'), 
+('10','Llanquihue'),     
+('10','Maullín'), 
+('10','Puerto Montt'), 
+('10','Puerto Varas'), 
+('10','Osorno'), 
+('10','Puerto Octay'), 
+('10','Purranque'), 
+('10','Puyehue'), 
+('10','Río Negro'), 
+('10','San Juan de la Costa'), 
+('10','San Pablo'), 
+('10','Chaitén'), 
+('10','Futaleufú'), 
+('10','Hualaihue'), 
+('10','Palena');
 
-        
-		337Ingeniería en Computación
-        
-		246Ingeniería en Conectividad y Redes
-        
-		123Ingeniería en Construcción
-        
-		396Ingeniería en Control de Gestión
-        
-		305Ingeniería en Control e Instrumentación Industrial
-        
-		309Ingeniería en Deportes
+INSERT INTO `camarade_talca`.`Comuna`  (`id_region`, `nombre`) VALUES
+('11','Aysén'),	    
+('11','Cisnes'),   
+('11','Guaitecas'),
+('11','Cochrane'),	    
+('11','O'Higgins'),	    
+('11','Tortel'),			    
+('11','Coihaique'),    
+('11','Lago Verde'),
+('11','Chile Chico'),	    
+('11','Río Ibañez');
 
-        
-		338Ingeniería en Electricidad
-        
-		395Ingeniería en Estadística
-        
-		196Ingeniería en Fabricación y montaje Ind.
-        
-		431Ingeniería en Física
-        
-		181Ingeniería en Geografía
-        
-		73Ingeniería en Geomensura
+INSERT INTO `camarade_talca`.`Comuna`  (`id_region`, `nombre`) VALUES
 
-        
-		191Ingeniería en Gestión
-        
-		339Ingeniería en Gestión de Calidad y Ambiente
-        
-		244Ingeniería en Gestión de Negocios
-        
-		433Ingeniería en Gestión e Informática
-        
-		229Ingeniería en Gestión y Control de Calidad
-        
-		230Ingeniería en Gestión y Desarrollo Tecnológico
-
-        
-		248Ingeniería en Industrias de la Madera
-        
-		104Ingeniería en Informática / Sistemas
-        
-		192Ingeniería en Logística
-        
-		193Ingeniería en Mantenimiento Industrial
-        
-		194Ingeniería en manufactura industrial
-        
-		358Ingeniería en Maquinaria y Vehículos Automotrices
-
-        
-		435Ingeniería en Marina Mercante
-        
-		242Ingeniería en Mecatrónica
-        
-		195Ingeniería en Metalmecánica
-        
-		124Ingeniería en Minas
-        
-		125Ingeniería en Obras Civiles
-        
-		231Ingeniería en Prevención de Riesgos
-
-        
-		198Ingeniería en procesos de la madera
-        
-		341Ingeniería en Proyectos Industriales
-        
-		183Ingeniería en Recursos Naturales Renovables
-        
-		197Ingeniería en Refrigeración y Climatización
-        
-		409Ingenieria en RRHH
-        
-		447Ingeniería en Sonido
-
-        
-		126Ingeniería en Telecomunicaciones
-        
-		121Ingeniería en Transporte
-        
-		436Ingeniería en transporte marítimo
-        
-		426Ingeniería en Turismo y Hotelería
-        
-		41Ingeniería Forestal
-        
-		127Ingeniería Hidráulica
-
-        
-		128Ingeniería Industrial
-        
-		129Ingeniería Matemáticas
-        
-		148Ingeniería Mecánica
-        
-		361Ingeniería Mecánica en Producción Industrial
-        
-		130Ingeniería Metálica / Metalúrgica
-        
-		132Ingeniería Pesquera / Cultivos Marinos
-
-        
-		133Ingeniería Química
-        
-		414Ingeniería Textil
-        
-		131Ingeniero Naval
-        
-		425Instrumentación Quirúrgica
-        
-		78Jardinería / Floricultura
-        
-		94Junior / Cadete / Oficinista 
-
-        
-		42Kinesiología
-        
-		134Laboratorio Dental / Mecánica Dental
-        
-		407Letras
-        
-		424Licenciatura en Archivología
-        
-		43Licenciatura en Arte / Bellas Artes
-        
-		429Licenciatura en Artes Visuales
-
-        
-		295Licenciatura en Ciencias Biológicas
-        
-		368Licenciatura en Ciencias del Medio Ambiente
-        
-		303Licenciatura en Ciencias Religiosas y Estudios Eclesiásticos
-        
-		374Licenciatura en Computación
-        
-		44Licenciatura en Educación / Magisterio
-        
-		430Licenciatura en Filosofía
-
-        
-		434Licenciatura en Física
-        
-		479Licenciatura en Gestión de Medios y Entretenimiento
-        
-		95Licenciatura en Literatura / Literatura / Letras
-        
-		423Licenciatura en Producción de Bio-Imágenes
-        
-		428Licenciatura en Química
-        
-		356Licenciatura en Recursos Humanos
-
-        
-		397Licenciatura en Seguridad e Higiene en el Trabajo
-        
-		475Licenciatura en Tecnología educativa
-        
-		437Licenciatura nivel inicial
-        
-		349Locución y Conducción de Radio y TV
-        
-		483Maestría en Dirección Comercial
-        
-		165Maestro Mayor de Obras
-
-        
-		304Magister
-        
-		300Magister en Ciencias de la Educación
-        
-		156Manteniemiento de Maquinaria Pesada
-        
-		155Mantenimiento de Maquinaria de Planta
-        
-		342Mantenimiento Industrial / Producción Industrial
-        
-		135Marketing / Mercadotecnia
-
-        
-		406Martillero y Corredor Público
-        
-		351Masoterapia
-        
-		45Matemática 
-        
-		306Matrón (a)
-        
-		92Mayordomo
-        
-		240MBA
-
-        
-		480MBA Ejecutivo
-        
-		481MBA Joven Profesional
-        
-		482MBA Profesional Internacional
-        
-		88Mecánica
-        
-		439Mecánica Automotriz
-        
-		249Mecánica Industrial
-
-        
-		394Mecatrónica
-        
-		46Medicina 
-        
-		47Medicina Veterinaria
-        
-		388Metálica y Autopartes
-        
-		232Meteorología
-        
-		211Microbiología industrial de alimentos
-
-        
-		212Minero Metalúrgico
-        
-		213Modelista de Vestuario
-        
-		166Museología
-        
-		48Música  
-        
-		343Músico - Terapia
-        
-		167Musicoterapia
-
-        
-		393Negocios Internacionales
-        
-		168Notario Público / Escribano Público
-        
-		49Nutrición / Nutrición y Dietética
-        
-		344Nutrición y Alimentación Institucional
-        
-		174Obstetricia y Puericultura
-        
-		67Oceanografía
-
-        
-		138Odontología
-        
-		140Oftalmología
-        
-		363Optica
-        
-		149Optometría
-        
-		84Orfebrería / Joyería
-        
-		279Orientación Familiar
-
-        
-		50Paisajismo / Diseño de Paisaje  
-        
-		85Panadero
-        
-		389Paramédico
-        
-		75Párvulo
-        
-		280Pastelería Internacional
-        
-		51Pedagogía
-
-        
-		116Pedagogía Básica / Educación Básica / Primaria
-        
-		301Pedagogía Educación Media en Lenguaje y Comunicación
-        
-		448Pedagogía en Biología y Ciencias Naturales
-        
-		179Pedagogía en Ciencias 
-        
-		292Pedagogía en Cs. Naturales y Física
-        
-		291Pedagogía en Cs. Naturales y Química
-
-        
-		286Pedagogía en Educación Diferencial
-        
-		142Pedagogía en Educación Física y Deporte
-        
-		178Pedagogía en Historia / Ciencias Sociales
-        
-		176Pedagogía en Inglés / Idiomas
-        
-		310Pedagogía en Lengua Castellana y Comunicación
-        
-		177Pedagogía en Matemáticas / Computación
-
-        
-		175Pedagogía en Música / Arte
-        
-		180Pedagogía en Religión
-        
-		117Pedagogía Media / Educación Media / Secundaria
-        
-		302Pedagogía Media en Religión y Educación Moral
-        
-		372Peluquería
-        
-		52Periodismo
-
-        
-		417Periodismo Deportivo
-        
-		236Perito Criminalístico
-        
-		90Piloto / Aviación
-        
-		150Pintura
-        
-		373Podología
-        
-		262Preparador Físico
-
-        
-		98Prevención de Riesgos / Seguridad Industrial 
-        
-		379Procesos Agroindustriales
-        
-		390Procesos De Producción
-        
-		281Producción Gastronómica
-        
-		282Producción Musical
-        
-		53Programación
-
-        
-		54Psicología
-        
-		234Psicología Clínica
-        
-		235Psicología Educacional
-        
-		233Psicología Laboral
-        
-		55Psicopedagogía / Educación Diferencial
-        
-		307Publicidad
-
-        
-		308Publicidad Profesional Mención Marketing y Medios
-        
-		272Publicidad Técnica Mención Marketing Promocional
-        
-		408Puericultura
-        
-		57Química / Analista Químico
-        
-		380Química De Materiales
-        
-		345Química Industrial
-
-        
-		294Química Marina
-        
-		58Química y Farmacia
-        
-		283Químico Laboratista Industrial
-        
-		59Recursos Humanos / Relaciones Industriales
-        
-		157Redes y Comunicación de Datos / Conectividad 
-        
-		346Relaciones del Trabajo
-
-        
-		136Relaciones Internacionales
-        
-		60Relaciones Públicas
-        
-		79Sacerdocio
-        
-		70Secretariado
-        
-		71Secretariado Bilingue
-        
-		391Servicios  Posventa Área Automotriz
-
-        
-		111Servicios Domésticos 
-        
-		91Sevicios Domésticos / Empleada Doméstica
-        
-		392Sistemas de Gestión de la Calidad
-        
-		61Sociología
-        
-		76Técnico / Tecnólogo / Técnico Superior
-        
-		263Técnico Agrícola
-
-        
-		264Técnico AudioVisual
-        
-		458Técnico Cinematográfico
-        
-		201Técnico Control de producción industrial
-        
-		443Técnico de Nivel Sup. en Contacto con la Naturaleza y Deporte Aventura
-        
-		444Técnico de Nivel Sup. en Guía Turístico en la Naturaleza
-        
-		455Técnico de Nivel Superior en Actividad Física y Deportes
-
-        
-		450Técnico de Nivel Superior en Administración de Empresas
-        
-		452Técnico de Nivel Superior en Administración de Negocios Gastronómicos
-        
-		456Técnico de Nivel Superior en Bioprocesos Industriales
-        
-		451Técnico de Nivel Superior en Computación
-        
-		453Técnico de Nivel Superior en Organización y Producción de Eventos
-        
-		449Técnico de Nivel Superior en Sonido
-
-        
-		454Técnico de Nivel Superior en Vitivinicultura y Enología
-        
-		265Técnico de RadioDiagnóstico y Radioterapia
-        
-		352Técnico Deportivo
-        
-		299Técnico en Administración de Programas Sociales
-        
-		366Técnico en Administración de Recursos Humanos
-        
-		464Técnico en Arte y Gestión Cultural
-
-        
-		359Técnico en Climatización
-        
-		415Técnico en Comunicación para las Organizaciones Sociales
-        
-		200Técnico en control de calidad
-        
-		463Técnico en Diseño de Espacios y Equipamientos
-        
-		208Técnico en Diseño editorial
-        
-		271Técnico en Diseño Gráfico
-
-        
-		416Técnico en Economía y Administración de la pequeñas y mediana empresa
-        
-		202Técnico en Edificación
-        
-		203Técnico en Electricidad
-        
-		204Técnico en Electricidad Industrial
-        
-		238Técnico en Enfermería
-        
-		205Técnico en Fabricación y montaje Industrial
-
-        
-		228Técnico en Geomensura
-        
-		206Técnico en Gestión y Control de calidad
-        
-		207Técnico en Logística
-        
-		369Técnico en Mantención
-        
-		209Técnico en Matricería
-        
-		219Técnico en Medio Ambiente
-
-        
-		210Técnico en Metalmecánica
-        
-		214Técnico en Obras civiles
-        
-		278Técnico en Oleohidráulica y Neumática
-        
-		362Técnico en óptica
-        
-		216Técnico en Planificación Vial
-        
-		477Técnico en Prevención de Riesgos
-
-        
-		217Técnico en Procesos de la madera
-        
-		418Técnico en Producción y realización de medios masivos
-        
-		218Técnico en Refrigeración
-        
-		348Técnico en Restauración
-        
-		462Técnico en Salud Natural y Terapias Complementarias
-        
-		284Técnico en Soporte Computacional
-
-        
-		226Técnico en Topografia
-        
-		461Técnico en Trabajo Social
-        
-		227Técnico en Tránsito y Transporte
-        
-		427Técnico Financiero
-        
-		245Técnico Jurídico
-        
-		289Técnico Marino
-
-        
-		488Técnico Nivel Medio Naval
-        
-		487Técnico Nivel Superior Naval
-        
-		419Técnico Productor en Medios Visuales
-        
-		420Técnico Profesional Archivero
-        
-		347Técnico Superior en Administración Agrícola
-        
-		421Técnico Superior en administración cooperativa y mutual
-
-        
-		422Técnico Superior en Bromatología
-        
-		266Técnico Veterinario
-        
-		220Tecnología en gestión Forestal
-        
-		459Tecnología en Metalurgia
-        
-		285Técnología en Minería
-        
-		221Tecnología en Minería y Metalurgía
-
-        
-		290Tecnología en Recursos del Mar
-        
-		267Tecnología en Sonido
-        
-		222Tecnología Forestal
-        
-		223Tecnología Industrial de alimentos del mar
-        
-		224Tecnología Industrial de la madera
-        
-		225Tecnología Industrial de los alimentos
-
-        
-		112Tecnología Médica
-        
-		457Tecnología Pecuaria
-        
-		381Tecnologías De La Información y Comunicación
-        
-		364Tecnólogo / Técnico Control Industrial
-        
-		365Tecnólogo / Técnico en alimentos
-        
-		199Tecnólogo / Técnico en Construcción
-
-        
-		143Telecomunicaciones
-        
-		62Teología
-        
-		151Terapia Física
-        
-		137Terapia Ocupacional
-        
-		63Trabajo Social / Servicio Social
-        
-		106Traducción / Intérprete
-
-        
-		100Tripulante de Cabina / Azafata(o)
-        
-		64Turismo  / Administración en Turismo
-        
-		268Turismo de Aventura
-        
-		269Turismo Técnico Mención Empresas de Viajes
-        
-		270Turismo Técnico Mención Tráfico y Carga Aérea
-        
-		65Urbanismo
-
-        
-		56Venta y Publicidad
-        
-		152Zootecnia / Zoología
-
-         			   			
-					
